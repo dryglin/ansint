@@ -1,0 +1,3 @@
+plugin: vf_marvin_inventory
+api_url: https://marvin.corp.vattenfall.com/api
+vf_identifier: VT_SecOps
