@@ -1,0 +1,9 @@
+namespace: swat
+name: az
+version: 0.1.0
+readme: README.md
+authors:
+- Oscar Rylin <oscar@donkey.com>
+description: collection for integration within swataz
+license: donkeydick
+
